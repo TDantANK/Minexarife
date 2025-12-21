@@ -27,9 +27,7 @@ Como Executar
 
 Você pode testar a aplicação sem precisar instalar o Java em sua máquina:
 
-1. Acesse a aba [Releases](link-para-sua-release-aqui) deste repositório.
-2. Baixe o arquivo `MineXarife_Portable.zip`.
-3. Extraia e execute o arquivo `MineXarife.exe`.
+1. Acesse a aba deste repositório.
 
 > **Nota:** É necessária conexão com a internet para que o sistema se comunique com o banco de dados em nuvem.
 
@@ -44,3 +42,4 @@ O projeto segue o padrão de camadas para garantir manutenibilidade e escalabili
 3.  **UI (View):** Telas desenvolvidas em JavaFX focadas em UX industrial.
 
 ---
+
