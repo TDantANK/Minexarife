@@ -1,0 +1,3 @@
+.root { -fx-font-family: "Segoe UI", "Arial"; }
+.button { -fx-font-size: 12px; -fx-padding: 6 12 6 12; }
+.button.primary-button { -fx-background-color: linear-gradient(#67b26f, #4cae4c); -fx-text-fill: white; -fx-background-radius: 6; -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.12), 4, 0, 0, 1); }
