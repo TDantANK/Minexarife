@@ -1,4 +1,4 @@
-# ⛏️ MineXarife - Almoxarifado Inteligente baseado em mineração
+#  MineXarife - Almoxarifado Inteligente baseado em mineração
 
 
 ---
